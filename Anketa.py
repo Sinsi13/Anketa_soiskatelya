@@ -19,7 +19,7 @@ def submit_form():
     
 #создаем окно
 root = tk.Tk()
-root.title("Анкета пользователя v1.0")
+root.title("Анкета пользователя v1.1")
 root.geometry("400x450")
 
 #общий контейнер с отступами
